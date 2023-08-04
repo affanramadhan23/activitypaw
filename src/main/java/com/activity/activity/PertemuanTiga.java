@@ -6,10 +6,10 @@ public class PertemuanTiga {
         // variable
         System.out.println("Variable");
         String name;
-        name = "Farhan Taufiqul Ihsan";
+        name = "Affan Nabil Ramadhan";
 
         // kata kunci var
-        int age = 30;
+        int age = 22;
         String address = "Indonesia";
 
         System.out.println(name);
@@ -19,8 +19,8 @@ public class PertemuanTiga {
         // kata kunci final
         System.out.println("\n");
         System.out.println("Final");
-        final String name1 = "Farhan Taufiqul Ihsan";
-        int age1 = 30;
+        final String name1 = "Affan Nabil Ramadhan";
+        int age1 = 22;
         String address1 = "Indonesia";
 
         // name1 = "diubah"; karena final
@@ -55,9 +55,9 @@ public class PertemuanTiga {
         System.out.println(arraylong.length);
 
         String[][] members = {
-                        { "Farhan", "Taufiqul", "Ihsan" },
-                        { "Joko", "Purwanto" },
-                        { "Iwan", "Abdul" }
+                        { "Affan", "Nabil", "Ramadhan" },
+                        { "Jojo", "Didin" },
+                        { "Iwan", "Fahmi" }
         };
 
         String[] member1 = members[0];
