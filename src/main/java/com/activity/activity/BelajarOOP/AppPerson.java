@@ -2,7 +2,7 @@ package com.activity.activity.BelajarOOP;
 
 public class AppPerson {
     public static void main(String[] args) {
-        var person = new Person();
+        var person = new Person(null, null);
         //Person person2 = new Person();
 
        // Person person3;
@@ -17,5 +17,6 @@ public class AppPerson {
         System.out.println(person.country);
         
         person.sayHello("Affan");
+        person.SayGoodbye("Affan");
     }
 }
