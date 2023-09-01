@@ -8,7 +8,7 @@ public class IfStatement {
         if (nilai >= 70 && absen >= 75) {
             System.out.println("Anda Lulus");
         } else {
-            System.out.println("aowkoaowk ga lulus");
+            System.out.println("Anda ga lulus");
         }
 
         if (nilai >= 80 && absen >= 80) {
